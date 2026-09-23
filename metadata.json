@@ -1,0 +1,6 @@
+{
+  "name": "Building GA & Maintenance Manager",
+  "description": "Sistem terpadu General Affairs dan Building Maintenance untuk kelola jadwal servis, pelacakan aset & perbaikan real-time, stok opname, dan log aktivitas audit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
